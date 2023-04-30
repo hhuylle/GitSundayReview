@@ -7,4 +7,6 @@ public class Browser {
     //...
 
     //...
+
+    // open searching
 }
